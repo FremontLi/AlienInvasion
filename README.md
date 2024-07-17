@@ -1,19 +1,19 @@
 参照《PYTHON编程：从入门到实践（第3版）》第12章-14章完成的《外星人入侵》小游戏
---alien_invasion.py
-  项目运行程序
---alien.py
-  单个外星人的设置
---bullet.py
-  子弹设置
---button.py
-  游戏开始按钮设置
---game_stats.py
-  游戏状态设置
---high_score.py
-  游戏最高得分纪录设置
---scoreboard.py
-  游戏得分面板设置
---settings.py
-  游戏一些基础设置
---ship.py
-  飞船设置
+- alien_invasion.py
+  - 项目运行程序
+- alien.py
+  - 单个外星人的设置
+- bullet.py
+  - 子弹设置
+- button.py
+  - 游戏开始按钮设置
+- game_stats.py
+  - 游戏状态设置
+- high_score.py
+  - 游戏最高得分纪录设置
+- scoreboard.py
+  - 游戏得分面板设置
+- settings.py
+  - 游戏一些基础设置
+- ship.py
+  - 飞船设置
